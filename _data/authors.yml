@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    백엔드 개발자가 되는 꿈을 키우고 있는 김도훈 이라고 합니다.
+    Hello, I'm Dohun Kim! 👋
+    
 
   # This photo will be used in the about section
   picture:
